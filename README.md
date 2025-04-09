@@ -50,7 +50,7 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/dinithi-imalsha-weerasingha-2ab59829a" target="_blank">
+  <a href="https://www.linkedin.com/in/dinithi-imalsha-weerasingha-2ab59829a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:imalsha24w@gmail.com">
