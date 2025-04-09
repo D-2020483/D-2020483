@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on a **E-Commerce Application**
+- 🔭 I’m currently working on **E-Commerce Application**
 - 🌱 Always learning: **Full-stack Development,Cloud Based Architectures**
 - 👩‍🎓 Undergraduate | BSc (Hons) in Information Systems – Rajarata University of Sri Lanka
 - 💬 Ask me about: `React`, `Node.js`, `Spring Boot`, `MongoDB`, `Next.js`, `Tailwind`, `Material UI`
