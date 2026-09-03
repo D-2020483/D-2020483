@@ -13,7 +13,7 @@
 - 🔭 I’m currently developing and deploying **Full-stack Projects**
 - 🌱 Always learning: **Full-stack Development,Cloud Based Architectures**
 - 👩‍🎓 Undergraduate | BSc (Hons) in Information Systems – Rajarata University of Sri Lanka
-- 💬 Ask me about: `React`, `Node.js`, `Spring Boot`, `MongoDB`, `Next.js`, `Tailwind`, `Material UI`
+- 💬 Ask me about: `React`, `Node.js`, `Fast API`, `Supabase`, `MongoDB`, `Tailwind`, `Shadcn UI`
 - ⚡ Fun fact: I build apps while vibing to my favorite soundtracks 🎧⚙️
 
 ---
@@ -39,12 +39,16 @@
 </p>
 
 ---
-
 ### 🧠 Featured Projects
 
-- 💼 [Mebius E-Commerce Application](https://github.com/D-2020483/E-Commerce_Frontend) – Modern UI with product sorting, filtering, and Ordering
-- 🚀 [Inventory Management System](https://github.com/D-2020483/Inventory_Management_System) – Real-time stock,Reports Generate, and user-friendly dashboard  
+* 🌐 **[Civic Link](https://github.com/D-2020483/AI-Community-Problem-Solver)** – AI-powered civic issue reporting platform that analyzes citizen reports, categorizes community problems, prioritizes them, and routes them to the relevant authority.
 
+* 🤖 **[JobMatch AI](https://github.com/D-2020483/JOB_MATCH_AI)** – AI-powered job matching platform that analyzes candidate profiles and job requirements to recommend suitable career opportunities.
+
+* 💼 **[Mebius E-Commerce Application](https://github.com/D-2020483/E-Commerce_Frontend)** – Modern e-commerce UI with product sorting, filtering, and ordering.
+
+* 📦 **[Inventory Management System](https://github.com/D-2020483/Inventory_Management_System)** – Inventory management system with real-time stock tracking, report generation, and a user-friendly dashboard.
+  
 ---
 
 ### 📫 Let's Connect!
